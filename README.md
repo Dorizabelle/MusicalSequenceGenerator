@@ -1,0 +1,2 @@
+# MusicalSequenceGenerator
+Senior Research 
